@@ -1,2 +1,2 @@
-# IMAGE-SIMILARITY-SEARCH-
-This project implements an advanced image similarity search system using Vision Transformer (ViT) for feature extraction and FAISS for efficient similarity indexing. By leveraging deep learning and robust search techniques, the system identifies and retrieves visually similar images from a dataset, providing accurate and scalable results.
+# IMAGE-SIMILARITY-SEARCH using pretrained models
+This project compares four different pretrained deep learning models—ResNet50, ViT, CLIP, and DeiT—to find the top 10 most similar images to a given input image. Using feature embeddings and FAISS for efficient similarity search, the goal is to evaluate how each model performs in terms of speed, accuracy, and suitability for image similarity tasks.
